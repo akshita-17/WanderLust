@@ -6,7 +6,7 @@ if(process.env.NODE_ENV!="production"){
     require("dotenv").config({path:"../.env"});
 }
 
-const URL_MONGOOSE=process.env.MONGO_ATLAS_URL;
+const URL_MONGOOSE=process.env.ATLASDB_URL;
 
 main().then(()=>{
     console.log("connected to db");
