@@ -1,6 +1,6 @@
-# WanderLust – Airbnb Inspired Listing Platform
+# NookAway– Your nook, anywhere in the world.
 
-WanderLust is a full-stack web application inspired by Airbnb that allows users to create, explore, and manage property listings. Users can sign up, log in, add new listings, edit or delete their listings, and leave reviews on properties. The project demonstrates core backend development concepts including authentication, CRUD operations, and database relationships.
+NookAway is a full-stack web application inspired by Airbnb that allows users to create, explore, and manage property listings. Users can sign up, log in, add new listings, edit or delete their listings, and leave reviews on properties. The project demonstrates core backend development concepts including authentication, CRUD operations, and database relationships.
 
 ## Features
 
